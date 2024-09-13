@@ -1,0 +1,5 @@
+/* styles.css */
+  .leaflet-control-layers {
+    font-size: 5px; /* Ajuste o tamanho da fonte */
+      width: 50px; /* Ajuste a largura do controle */
+  }

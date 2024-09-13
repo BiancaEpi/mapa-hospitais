@@ -1,0 +1,13 @@
+name: mapa_hospitais
+title: mapa_hospitais
+username:
+account: biancabittencourt
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12333316
+bundleId: 8893698
+url: https://biancabittencourt.shinyapps.io/mapa_hospitais/
+when: 1721673420.03699
+lastSyncTime: 1721673420.03701
+asMultiple: FALSE
+asStatic: FALSE
